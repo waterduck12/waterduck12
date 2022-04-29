@@ -30,7 +30,7 @@ Front-end Developer Hyeonmin Koo</h2>
   </em>
   </p>
   
-<h2> 🛠기술 Stack </h2>
+<h2> 🛠기술 Stack🛠 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
