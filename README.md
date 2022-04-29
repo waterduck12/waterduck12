@@ -11,6 +11,21 @@
       파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키</a> - 現 인사디렉터
     </h3>
   </em>
+  <em>
+    <h3>
+      댕냥커플(Dog-Neow Couple) : <a href="#">댕냥커플</a> - 現 컨텐츠디렉터
+    </h3>
+  </em>
+  <em>
+    <h3>
+      포스트 빌리지(Post Village) : <a href="#">포스트 빌리지</a> - 개발팀장(예정)
+    </h3>
+  </em>
+  <em>
+    <h3>
+      개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키 - 구현민</a>
+    </h3>
+  </em>
   </p>
       
 
