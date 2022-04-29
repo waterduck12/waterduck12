@@ -25,7 +25,7 @@ Front-end Developer Hyeonmin Koo</h2>
   </em>
   <em>
     <h3>
-      🙍‍♂️개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키 - 구현민 [ Hyeonmin Koo ]</
+      🙍‍♂️개인 프로필(Personal Profile) : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키 - 구현민 [ Hyeonmin Koo ]</
     </h3>
   </em>
   </p>
@@ -54,7 +54,7 @@ Front-end Developer Hyeonmin Koo</h2>
     </p>
     
 <p>자세한 내용은 개인프로필에서 확인 부탁드려요!<br>
-  Please check my personal profile for details
+  Please check my personal profile for details!
   </p>
 
       
