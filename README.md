@@ -3,7 +3,7 @@
 <p>
   <em>
     <h3>
-      <a href="https://hrefs.co.kr">Href S(Href Simple)
+      개인 운영 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple)
       </a>
     </h3>
   </em>
