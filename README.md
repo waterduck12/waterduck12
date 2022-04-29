@@ -1,5 +1,5 @@
-<h2> 프론트엔드 개발자 구현민입니다 </h2>
-<h2> Front-end Developer Hyeonmin Koo</h2>
+<h2> 프론트엔드 개발자 구현민입니다<br>
+Front-end Developer Hyeonmin Koo</h2>
 
 <p>
   <em>
