@@ -23,7 +23,7 @@
   </em>
   <em>
     <h3>
-      개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html"></a>파도위키 - 구현민
+      개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키</a> - 구현민
     </h3>
   </em>
   </p>
