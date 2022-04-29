@@ -1,7 +1,7 @@
 <h2> ⌨프론트엔드 개발자 구현민입니다<br>
 Front-end Developer Hyeonmin Koo</h2>
 
-<h3> 🎉프로젝트(Project) </h3>
+<h2> 🎉프로젝트(Project)🎉 </h2>
 <p>
   <em>
     <h3>
