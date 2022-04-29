@@ -36,6 +36,8 @@ Front-end Developer Hyeonmin Koo</h2>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React)
 ![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=python&logoColor=ffffff)
       
 
 <!--
