@@ -44,6 +44,9 @@ Front-end Developer Hyeonmin Koo</h2>
 ![Go](https://img.shields.io/badge/-Go-74cedd?style=for-the-badge&logo=go&logoColor=ffffff)
 ![Next.Js](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff)
 
+<p>자세한 내용은 파도위키에서 확인해주세요!
+  </p>
+
       
 
 <!--
