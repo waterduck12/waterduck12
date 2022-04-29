@@ -47,7 +47,8 @@ Front-end Developer Hyeonmin Koo</h2>
  <h2>📒MBTI📒</h2>
     <em>
       <h3>
-    <p><img src="https://t1.daumcdn.net/cfile/tistory/996BB24B5E3AC04D11"><br>ENFJ</p>
+    <p><img src="https://t1.daumcdn.net/cfile/tistory/996BB24B5E3AC04D11"></p>
+        <p style="font-size:30px;">ENFJ</p>
       </h3>
     </em>
     </p>
