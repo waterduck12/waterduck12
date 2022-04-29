@@ -5,7 +5,7 @@ Front-end Developer Hyeonmin Koo</h2>
 <p>
   <em>
     <h3>
-      📢Team 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 現 팀장 [ Current Team Leader ]
+      📢포트폴리오 사이트(Portfolio Site) : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 現 팀장 [ Current Team Leader ]
     </h3>
   </em>
   <em>
