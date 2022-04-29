@@ -3,10 +3,17 @@
 <p>
   <em>
     <h3>
-      개인 운영 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple)
+      Team 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple) - 現 팀장
       </a>
     </h3>
   </em>
+  <em>
+    <h3>
+      파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키 - 現 인사디렉터
+      </a>
+    </h3>
+  </em>
+  </p>
       
 
 <!--
