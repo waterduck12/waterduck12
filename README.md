@@ -4,17 +4,17 @@
 <p>
   <em>
     <h3>
-      Team 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 現 팀장[ Current Team Leader ]
+      Team 사이트 : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 現 팀장 [ Current Team Leader ]
     </h3>
   </em>
   <em>
     <h3>
-      파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키</a> - 現 인사디렉터[ Current Human Resources Director ]
+      파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키</a> - 現 인사디렉터 [ Current Human Resources Director ]
     </h3>
   </em>
   <em>
     <h3>
-      댕냥커플(Dog-Neow Couple) : <a href="#">댕냥커플</a> - 現 컨텐츠디렉터[ Current Contents Director ]
+      댕냥커플(Dog-Neow Couple) : <a href="#">댕냥커플</a> - 現 컨텐츠디렉터 [ Current Contents Director ]
     </h3>
   </em>
   <em>
@@ -28,6 +28,10 @@
     </h3>
   </em>
   </p>
+  
+<h2> 기술 Stack </h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
       
 
 <!--
