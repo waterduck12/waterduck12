@@ -43,8 +43,10 @@ Front-end Developer Hyeonmin Koo</h2>
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-74cedd?style=for-the-badge&logo=go&logoColor=ffffff)
 ![Next.Js](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff)
-
-<p>자세한 내용은 파도위키에서 확인해주세요!
+    
+    <h2>📒MBTI📒</h2>
+<img src="https://t1.daumcdn.net/cfile/tistory/996BB24B5E3AC04D11">
+<p>자세한 내용은 개인프로필에서 확인 부탁드려요!
   </p>
 
       
