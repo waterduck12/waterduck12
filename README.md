@@ -20,7 +20,7 @@ Front-end Developer Hyeonmin Koo</h2>
   </em>
   <em>
     <h3>
-      🏡포스트 빌리지(Post Village) : <a href="#">포스트 빌리지</a> - 개발팀장(예정) [ Develop Team Leader ]
+      🏡포스트 빌리지(Post Village) : <a href="#">포스트 빌리지</a> - 개발팀장(예정) [ Develop Team Leader be planned ]
     </h3>
   </em>
   <em>
@@ -53,7 +53,8 @@ Front-end Developer Hyeonmin Koo</h2>
     </em>
     </p>
     
-<p>자세한 내용은 개인프로필에서 확인 부탁드려요!
+<p>자세한 내용은 개인프로필에서 확인 부탁드려요!<br>
+  Please check my personal profile for details
   </p>
 
       
