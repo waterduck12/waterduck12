@@ -25,7 +25,7 @@ Front-end Developer Hyeonmin Koo</h2>
   </em>
   <em>
     <h3>
-      🙍‍♂️개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키</a> - 구현민 [ Hyeonmin Koo ]
+      🙍‍♂️개인 프로필 : <a href="https://hrefs.co.kr/hrefs1_member.html">파도위키 - 구현민 [ Hyeonmin Koo ]</
     </h3>
   </em>
   </p>
