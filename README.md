@@ -1,4 +1,4 @@
-<h2> 프론트엔드 개발자 구현민입니다<br>
+<h2> ⌨프론트엔드 개발자 구현민입니다<br>
 Front-end Developer Hyeonmin Koo</h2>
 
 <p>
@@ -40,6 +40,7 @@ Front-end Developer Hyeonmin Koo</h2>
 ![Python](https://img.shields.io/badge/-Python-F7DF1C?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=007ACC&Color=ffffff)
 ![Php](https://img.shields.io/badge/-Php-8f9ed1?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![Go](https://img.shields.io/badge/-Go-74cedd?style=for-the-badge&logo=go&logoColor=ffffff)
 
       
 
