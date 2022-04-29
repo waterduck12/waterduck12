@@ -41,6 +41,7 @@ Front-end Developer Hyeonmin Koo</h2>
 ![Php](https://img.shields.io/badge/-Php-8f9ed1?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-74cedd?style=for-the-badge&logo=go&logoColor=ffffff)
+![Next.Js](https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff)
 
       
 
