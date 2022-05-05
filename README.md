@@ -41,7 +41,7 @@ Front-end Developer Hyeonmin Koo</h2>
 ![Python](https://img.shields.io/badge/-Python-F7DF1C?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=007ACC&Color=ffffff)
 ![Php](https://img.shields.io/badge/-Php-8f9ed1?style=for-the-badge&logo=php&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=for-the-badge&logo=oracle&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-Python-007ACC?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
     
  <h2>📒MBTI📒</h2>
     <em>
