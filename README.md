@@ -5,22 +5,22 @@ Front-end Developer Hyeonmin Koo</h2>
 <p>
   <em>
     <h3>
-      📢포트폴리오 사이트(Portfolio Site) : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 現 팀장 [ Current Team Leader ]
+      📢포트폴리오 사이트(Portfolio Site) : <a href="https://hrefs.co.kr">Href S(Href Simple)</a> - 리뉴얼 예정
     </h3>
   </em>
   <em>
     <h3>
-      🌊파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키</a> - 現 인사디렉터 [ Current Human Resources Director ]
+      🌊파도위키(Wave Wiki) : <a href="https://hrefs.co.kr/wavewiki">파도위키</a> - 임시 운영중단
     </h3>
   </em>
   <em>
     <h3>
-      🐶댕냥커플(Dog-Neow Couple) : <a href="#">댕냥커플</a> - 現 컨텐츠디렉터 [ Current Contents Director ]
+      🐶댕냥커플(Dog-Neow Couple) : <a href="#">댕냥커플</a> - 운영중단
     </h3>
   </em>
   <em>
     <h3>
-      🏡포스트 빌리지(Post Village) : <a href="#">포스트 빌리지</a> - 개발팀장(예정) [ Develop Team Leader be planned ]
+      🏡포스트 빌리지(Post Village) : <a href="#">포스트 빌리지</a> - 제작중단
     </h3>
   </em>
   <em>
